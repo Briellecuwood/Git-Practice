@@ -1,0 +1,5 @@
+print "Coding is fun!"
+print "I am tired today, but I am always tired"
+print "Today is going to be a good day"
+print "I am happy today"
+print "My head hurts"
